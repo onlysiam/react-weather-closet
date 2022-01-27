@@ -48,8 +48,8 @@ function App() {
   const [resetPassword, setresetPassword] = useState(false);
 
   const [name, setName] = useState("");
-  const [userName, setUserName] = useState("");
-  const [password, setPassword] = useState("");
+  const [userName, setUserName] = useState("1610861042");
+  const [password, setPassword] = useState("siam");
   const [email, setemail] = useState("");
 
   const [currentTime, setcurrentTime] = useState("");

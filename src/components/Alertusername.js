@@ -42,5 +42,4 @@ const Body = styled.div`
     }
   }
 `;
-
 export default Alertusername;
