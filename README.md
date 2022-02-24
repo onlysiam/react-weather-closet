@@ -1,6 +1,6 @@
 # react-weather-closet
 
-A react-redux based web application which will check weather and suggest clothings for the user. Users will be abble to search for a specific location to get the suggestions.
+A react-redux based web application which will check weather and suggest clothings for the user. Users will be able to search for a specific location to get the suggestions.
 
 ## Built With
 
@@ -9,6 +9,8 @@ A react-redux based web application which will check weather and suggest clothin
 **Server:** Node, Express, Axios
 
 **State Management:** Redux
+
+**API:** Dark Sky
 
 **Database:** MySQL(innoDB)
 
