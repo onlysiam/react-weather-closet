@@ -205,54 +205,59 @@ export const dressesDataMale = () => {
     ],
     [
       {
-        code: require("./img/clothes/male/bottom/jeans1.png").default,
+        code: require("./img/clothes/male/bottom/jeans/jeans1.png").default,
         name: "Biker Jeans",
         description: "",
       },
       {
-        code: require("./img/clothes/male/bottom/jeans2.png").default,
+        code: require("./img/clothes/male/bottom/jeans/jeans2.png").default,
         name: "Distress Jeans",
         description: "",
       },
       {
-        code: require("./img/clothes/male/bottom/jeans3.png").default,
+        code: require("./img/clothes/male/bottom/jeans/jeans3.png").default,
         name: "Distress Jeans",
         description: "",
       },
       {
-        code: require("./img/clothes/male/bottom/jeans4.png").default,
+        code: require("./img/clothes/male/bottom/jeans/jeans4.png").default,
         name: "Jeans",
         description: "",
       },
       {
-        code: require("./img/clothes/male/bottom/jeans5.png").default,
+        code: require("./img/clothes/male/bottom/jeans/jeans5.png").default,
         name: "Jeans",
         description: "",
       },
       {
-        code: require("./img/clothes/male/bottom/casualpant1.png").default,
+        code: require("./img/clothes/male/bottom/pants/casualpant1.png")
+          .default,
         name: "Casual Pant",
         description:
           "A cotton made trouser will make you feel comfortable through the day.",
       },
       {
-        code: require("./img/clothes/male/bottom/casualpant2.png").default,
+        code: require("./img/clothes/male/bottom/pants/casualpant2.png")
+          .default,
         name: "Casual Pant",
         description: "",
       },
       {
-        code: require("./img/clothes/male/bottom/casualpant3.png").default,
+        code: require("./img/clothes/male/bottom/pants/casualpant3.png")
+          .default,
         name: "Casual Pant",
         description:
           "A cotton made trouser will make you feel comfortable through the day.",
       },
       {
-        code: require("./img/clothes/male/bottom/casualpant4.png").default,
+        code: require("./img/clothes/male/bottom/pants/casualpant4.png")
+          .default,
         name: "Casual Pant",
         description: "",
       },
       {
-        code: require("./img/clothes/male/bottom/casualpant5.png").default,
+        code: require("./img/clothes/male/bottom/pants/casualpant5.png")
+          .default,
         name: "Casual Pant",
         description: "",
       },
@@ -367,27 +372,27 @@ export const dressesDataFormalMale = () => {
   return [
     [
       {
-        code: require("./img/clothes/male/bottom/dresspant1.png").default,
+        code: require("./img/clothes/male/bottom/pants/dresspant1.png").default,
         name: "Dress Pant",
         description: "",
       },
       {
-        code: require("./img/clothes/male/bottom/dresspant2.png").default,
+        code: require("./img/clothes/male/bottom/pants/dresspant2.png").default,
         name: "Dress Pant",
         description: "",
       },
       {
-        code: require("./img/clothes/male/bottom/dresspant3.png").default,
+        code: require("./img/clothes/male/bottom/pants/dresspant3.png").default,
         name: "Checked Dress Pant",
         description: "",
       },
       {
-        code: require("./img/clothes/male/bottom/dresspant4.png").default,
+        code: require("./img/clothes/male/bottom/pants/dresspant4.png").default,
         name: "Textured Checked Chinos",
         description: "",
       },
       {
-        code: require("./img/clothes/male/bottom/dresspant5.png").default,
+        code: require("./img/clothes/male/bottom/pants/dresspant5.png").default,
         name: "Textured Checked Trouser",
         description: "",
       },
